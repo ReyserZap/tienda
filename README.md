@@ -1,54 +1,61 @@
+# TIENDA VIRTUAL
 
-# BxType
+_Es un aplicación web en proceso, con objetivo en poder ser una tienda virtual funcional_
 
-## App to test your typing speed.
+## Comenzando 🚀
 
-This is an app in which you can take a test in order to see how fast you can type. You can pick one type of test according to the time (1 minute, 2 minutes and 3 minutes).
-
-### Technologies used:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+_Las siguientes instrucciones te permitirán saber como poder tener el proyecto y ponerlo en un servidor local, para que puedas editarlo y mejorarlo._
 
 
+### Pre-requisitos 📋
 
-### Features
+_Para poder tener la copia del proyecto de manera ideal necesitarias los siguientes softwares:_
 
-- Two languages for tests (English or Spanish)
-- Three different time tests
-- Results displayed at the end of the test.
-- Correct word and incorrect word colors (green for correct and red for incrrect).
-- Word to type is highlighted
-- Light and dark theme.
+```
+Visual Studio Code, NodeJs.
+```
 
+### Instalación 🔧
 
-### How is typing speed measured?
+_Para instalar de manera adecuada el proyecto tendrás que:_
 
-Typing Speed is measured in WPM (Words Per Minute). To measure your typing speed, it's applied the next formula:
+Primero
 
-```Total correct chars / (5 * Test time)``` 
+```
+Clonar este repositorio en el lugar de tu preferencia
+```
 
-In wich correct chars mean how many chars you type correctly and Test time is the time of the test in minutes. 
-If you take 1 minute test, test time will have a value of 1 and so on.
+Segundo
 
-The app doesn't just measure your typing speed, but it can measure your accuracy while typing. 
+```
+Abrirlo con Visual Studio Code
+```
 
-To measure your accuracy it's applied the next formula:
+Tercero
 
-```(Total correct Chars / Total typed chars) * 100 ```
+```
+Abrir una terminal desde el Visual Studio Code y escribir "npm start" 
+```
 
-Total typed chars is the sum between correct chars and incorrect chars.
+_Una vez hayas hecho los anteriores pasos, podrás tener el proyecto en tus manos para poder editarlo y ver los cambios en tiempo real._
 
-### Words selection for tests
+## Construido con 🛠️
 
-For every test, 2000 words are ramdonly picked from a list of words. According to the selected language words will be in spanish language or english language.
+_Este proyecto fue construido con:_
 
+* [HTML]() - Estructura de la Tienda
+* [CSS]() - Estilo de la Tienda
+* [JAVASCRIPT]() - Lenguaje de Programación empleado
+* [REACT]() - Framework de Javascript
 
-### Do you want to run the app? You can use next command:
+## Version 📌
 
-`npm start`
+Este proyecto es relativamente nuevo, por lo que recién es la Versión 1.0
 
+## Autores ✒️
 
-### Try the app and check how fast you can type!
+* **Reyser Zapata** - *Programación* - [Reyser](https://github.com/ReyserZap)
 
-https://bxtype.netlify.app/
+## Expresiones de Gratitud 🎁
+
+* Gracias por leer y se cada proyecto nuevo, será mucho mejor que el anterior 👍🏽
