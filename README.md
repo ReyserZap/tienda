@@ -57,5 +57,5 @@ Este proyecto es relativamente nuevo, por lo que recién es la Versión 1.0
 * **Reyser Zapata** - *Programación* - [Reyser](https://github.com/ReyserZap)
 
 ## Expresiones de Gratitud 🎁
-
+ 
 * Gracias por leer y se cada proyecto nuevo, será mucho mejor que el anterior 👍🏽
